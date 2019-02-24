@@ -2,43 +2,37 @@
   {
     "grade": "IX, X",
     "id": "0000001",
-    "imageName": "prangon.jpg",
     "name": "Ranat Das Prangon",
     "subject": "Physics"
   },
   {
     "grade": "Play, Nursery",
     "id": "0000002",
-    "imageName": "shovo.jpg",
     "name": "Nahid Hassan Shovo",
     "subject": "Mathematics"
   },
   {
     "grade": "IX, X",
     "id": "0000003",
-    "imageName": "arup.jpg",
     "name": "Arup Aich",
     "subject": "Astronomy"
   },
   {
     "grade": "Everyone",
     "id": "0000004",
-    "imageName": "batman.jpg",
     "name": "Bruce Wayne",
     "subject": "Martial Arts"
   },
   {
     "grade": "Everyone",
     "id": "0000005",
-    "imageName": "naeem.jpg",
     "name": "Naeem Hasan",
     "subject": "Programming"
   },
   {
     "grade": "Everyone",
     "id": "0000006",
-    "imageName": "sopiko.jpg",
-    "name": "Sopiko Guramishvili",
+    "name": "Sopiko",
     "subject": "Chess Openings"
   }
 ]
