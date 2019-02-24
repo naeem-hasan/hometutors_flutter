@@ -1,43 +1,43 @@
 [
   {
-    "class": "IX, X",
+    "grade": "IX, X",
     "id": "0000001",
-    "image_name": "prangon.jpg",
+    "imageName": "prangon.jpg",
     "name": "Ranat Das Prangon",
     "subject": "Physics"
   },
   {
-    "class": "Play, Nursery",
+    "grade": "Play, Nursery",
     "id": "0000002",
-    "image_name": "shovo.jpg",
+    "imageName": "shovo.jpg",
     "name": "Nahid Hassan Shovo",
     "subject": "Mathematics"
   },
   {
-    "class": "IX, X",
+    "grade": "IX, X",
     "id": "0000003",
-    "image_name": "arup.jpg",
+    "imageName": "arup.jpg",
     "name": "Arup Aich",
     "subject": "Astronomy"
   },
   {
-    "class": "Everyone",
+    "grade": "Everyone",
     "id": "0000004",
-    "image_name": "batman.jpg",
+    "imageName": "batman.jpg",
     "name": "Bruce Wayne",
     "subject": "Martial Arts"
   },
   {
-    "class": "Everyone",
+    "grade": "Everyone",
     "id": "0000005",
-    "image_name": "naeem.jpg",
+    "imageName": "naeem.jpg",
     "name": "Naeem Hasan",
     "subject": "Programming"
   },
   {
-    "class": "Everyone",
+    "grade": "Everyone",
     "id": "0000006",
-    "image_name": "sopiko.jpg",
+    "imageName": "sopiko.jpg",
     "name": "Sopiko Guramishvili",
     "subject": "Chess Openings"
   }
