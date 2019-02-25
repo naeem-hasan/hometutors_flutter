@@ -1,12 +1,7 @@
-[
-   {
-    "quote": "I love to teach!",
-    "phone": "01704996063",
-    "salary": "Depends",
-    "From": "Naha Road, Mymensingh",
-    "Notable students": "None",
-    "Special note": "I get angry when my students don't do their homework. Mind it!",
-    "Recommended by": "Naeem Hasan"
-  }
-]
-
+{
+  "Tentative salary": "Depends",
+  "From": "Naha Road, Mymensingh",
+  "Notable students": "None",
+  "Recommended by": "Naeem Hasan",
+  "Special note": "I get angry when my students don't do their homework. Mind it!"
+}

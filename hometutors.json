@@ -3,36 +3,48 @@
     "grade": "IX, X",
     "id": "0000001",
     "name": "Ranat Das Prangon",
-    "subject": "Physics"
+    "subject": "Physics",
+    "phone": "01704996063",
+    "quote": "I just love to teach!"
   },
   {
     "grade": "Play, Nursery",
     "id": "0000002",
     "name": "Nahid Hassan Shovo",
-    "subject": "Mathematics"
+    "subject": "Mathematics",
+    "phone": "01704996063",
+    "quote": "I just love to teach!"
   },
   {
     "grade": "IX, X",
     "id": "0000003",
     "name": "Arup Aich",
-    "subject": "Astronomy"
+    "subject": "Astronomy",
+    "phone": "01704996063",
+    "quote": "I just love to teach!"
   },
   {
     "grade": "Everyone",
     "id": "0000004",
     "name": "Bruce Wayne",
-    "subject": "Martial Arts"
+    "subject": "Martial Arts",
+    "phone": "01704996063",
+    "quote": "I just love to teach!"
   },
   {
     "grade": "Everyone",
     "id": "0000005",
     "name": "Naeem Hasan",
-    "subject": "Programming"
+    "subject": "Programming",
+    "phone": "01704996063",
+    "quote": "I just love to teach!"
   },
   {
     "grade": "Everyone",
     "id": "0000006",
     "name": "Sopiko",
-    "subject": "Chess Openings"
+    "subject": "Chess Openings",
+    "phone": "01704996063",
+    "quote": "I just love to teach!"
   }
 ]
