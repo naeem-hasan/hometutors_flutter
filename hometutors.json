@@ -1,36 +1,4 @@
-[
-  {
-    "grade": "IX, X",
-    "id": "0000001",
-    "name": "Ranat Das Prangon",
-    "subject": "Physics",
-    "phone": "01704996063",
-    "quote": "I just love to teach!"
-  },
-  {
-    "grade": "Play, Nursery",
-    "id": "0000002",
-    "name": "Nahid Hassan Shovo",
-    "subject": "Mathematics",
-    "phone": "01704996063",
-    "quote": "I just love to teach!"
-  },
-  {
-    "grade": "IX, X",
-    "id": "0000003",
-    "name": "Arup Aich",
-    "subject": "Astronomy",
-    "phone": "01704996063",
-    "quote": "I just love to teach!"
-  },
-  {
-    "grade": "Everyone",
-    "id": "0000004",
-    "name": "Bruce Wayne",
-    "subject": "Martial Arts",
-    "phone": "01704996063",
-    "quote": "I just love to teach!"
-  },
+[ 
   {
     "grade": "Everyone",
     "id": "0000005",
@@ -40,11 +8,83 @@
     "quote": "I just love to teach!"
   },
   {
+    "name": "Ranat Das Prangon",
+    "grade": "IX, X",
+    "id": "0000001",
+    "subject": "Physics",
+    "phone": "01704996063",
+    "quote": "I am the boss of Physics!"
+  },
+  {
+    "grade": "Play, Nursery",
+    "id": "0000002",
+    "name": "Nahid Hassan Shovo",
+    "subject": "Mathematics",
+    "phone": "01704996063",
+    "quote": "I can help you with mathematics."
+  },
+  {
+    "grade": "IX, X",
+    "id": "0000003",
+    "name": "Arup Aich",
+    "subject": "Astronomy",
+    "phone": "01704996063",
+    "quote": "Teaching and learning about astronomy is my passion."
+  },
+  {
+    "grade": "Nobody",
+    "id": "0000004",
+    "name": "Bruce Wayne",
+    "subject": "Martial Arts",
+    "phone": "01704996063",
+    "quote": "I AM BATMAN. Enough talk."
+  },
+  {
     "grade": "Everyone",
     "id": "0000006",
-    "name": "Sopiko",
+    "name": "Sopiko Guramishvili",
     "subject": "Chess Openings",
     "phone": "01704996063",
-    "quote": "I just love to teach!"
-  }
+    "quote": "I am going to show you how to master chess openings!"
+  },
+  {
+    "grade": "Everyone",
+    "id": "0000007",
+    "name": "Ashraful Islam Liyad",
+    "subject": "Singing",
+    "phone": "01704996063",
+    "quote": "I want to be your Ostadji."
+  },
+  {
+    "grade": "Everyone",
+    "id": "0000008",
+    "name": "Aniruddho Kabbo",
+    "subject": "Drawing",
+    "phone": "01704996063",
+    "quote": "I will teach you how to draw."
+  },
+  {
+    "grade": "Everyone",
+    "id": "0000009",
+    "name": "Elmul Soad",
+    "subject": "All",
+    "phone": "01704996063",
+    "quote": "I am the master of everything, I can teach you all subjects."
+  },
+  {
+    "grade": "IX, X",
+    "id": "0000010",
+    "name": "Anjaman Arefin Somit",
+    "subject": "Chemistry",
+    "phone": "01704996063",
+    "quote": "Work hard and you'll conquer the world."
+  },
+  {
+    "grade": "IV - X",
+    "id": "0000011",
+    "name": "Musrat Mahzabin",
+    "subject": "Mathematics",
+    "phone": "01704996063",
+    "quote": "I am a beauty with brains, so call me!"
+  },
 ]
