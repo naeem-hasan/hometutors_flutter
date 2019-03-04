@@ -1,0 +1,18 @@
+[
+  {
+    "grade": "Everyone",
+    "id": "001",
+    "name": "Joker",
+    "subject": "Jokery",
+    "phone": "01704996063",
+    "quote": "I'll put a smile to your face!"
+  },
+  {
+    "name": "Bruce Wayne",
+    "grade": "IX, X",
+    "id": "002",
+    "subject": "Martial Arts",
+    "phone": "01704996063",
+    "quote": "I'm Batman!"
+  }
+]
