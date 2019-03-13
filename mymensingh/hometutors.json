@@ -1,7 +1,7 @@
 [
   {
     "grades" : [8, 10, 12],
-    "for": "Class VIII to XII",
+    "for": "Class 8 to 12",
     "id": "0000005",
     "name": "Naeem Hasan",
     "subject": "Programming",
@@ -11,15 +11,15 @@
   {
     "grades" : [10],
     "name": "Ranat Das Prangon",
-    "for": "Class IX, X",
+    "for": "Class 9, 10",
     "id": "0000001",
     "subject": "Physics",
     "phone": "01704996063",
     "quote": "I am the boss of Physics!"
   },
   {
-    "grades" : [5, 6, 7],
-    "for": "Class V, VI, VII",
+    "grades" : [5],
+    "for": "Class 1 to 5",
     "id": "0000002",
     "name": "Nahid Hassan Shovo",
     "subject": "Mathematics",
@@ -28,7 +28,7 @@
   },
   {
     "grades" : [10],
-    "for": "Class IX, X",
+    "for": "Class 9, 10",
     "id": "0000003",
     "name": "Arup Aich",
     "subject": "Astronomy",
@@ -36,8 +36,8 @@
     "quote": "Teaching and learning about astronomy is my passion."
   },
   {
-    "grades": [1, 2, 3, 4, 5, 6, 7, 8, 10, 12],
-    "for": "Everyone",
+    "grades": [8],
+    "for": "Class 6, 7, 8",
     "id": "0000004",
     "name": "Bruce Wayne",
     "subject": "Martial Arts",
@@ -45,7 +45,7 @@
     "quote": "I AM BATMAN. Enough talk."
   },
   {
-    "grades": [1, 2, 3, 4, 5, 6, 7, 8, 10, 12],
+    "grades": [0],
     "for": "Everyone",
     "id": "0000006",
     "name": "Sopiko Guramishvili",
@@ -54,7 +54,7 @@
     "quote": "I am going to show you how to master chess openings!"
   },
   {
-    "grades": [1, 2, 3, 4, 5, 6, 7, 8, 10, 12],
+    "grades": [0],
     "for": "Everyone",
     "id": "0000007",
     "name": "Ashraful Islam Liyad",
@@ -63,7 +63,7 @@
     "quote": "I want to be your Ostadji."
   },
   {
-    "grades": [1, 2, 3, 4, 5, 6, 7, 8, 10, 12],
+    "grades": [0],
     "for": "Everyone",
     "id": "0000008",
     "name": "Aniruddho Kabbo",
@@ -72,7 +72,7 @@
     "quote": "I will teach you how to draw."
   },
   {
-    "grades": [1, 2, 3, 4, 5, 6, 7, 8, 10, 12],
+    "grades": [0],
     "for": "Everyone",
     "id": "0000009",
     "name": "Elmul Soad",
@@ -82,7 +82,7 @@
   },
   {
     "grades": [10],
-    "for": "Class IX, X",
+    "for": "Class 9, 10",
     "id": "0000010",
     "name": "Anjaman Arefin Somit",
     "subject": "Chemistry",
@@ -90,8 +90,8 @@
     "quote": "Work hard and you'll conquer the world."
   },
   {
-    "grades": [4, 5, 6, 7, 8, 10],
-    "for": "Class IV to X",
+    "grades": [5],
+    "for": "Class 1 to 5",
     "id": "0000011",
     "name": "Musrat Mahzabin",
     "subject": "Mathematics",
@@ -99,8 +99,8 @@
     "quote": "I am a beauty with brains, so call me!"
   },
   {
-    "grades": [5, 6, 7, 8, 10],
-    "for": "Class V to X",
+    "grades": [8, 10, 12],
+    "for": "Class 5 to 10",
     "id": "0000012",
     "name": "Shanjeeda Swarna",
     "subject": "All subjects",
