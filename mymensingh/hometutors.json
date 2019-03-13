@@ -45,7 +45,7 @@
     "quote": "I AM BATMAN. Enough talk."
   },
   {
-    "grades": [0],
+    "grades": [-1],
     "for": "Everyone",
     "id": "0000006",
     "name": "Sopiko Guramishvili",
@@ -54,7 +54,7 @@
     "quote": "I am going to show you how to master chess openings!"
   },
   {
-    "grades": [0],
+    "grades": [-1],
     "for": "Everyone",
     "id": "0000007",
     "name": "Ashraful Islam Liyad",
@@ -63,7 +63,7 @@
     "quote": "I want to be your Ostadji."
   },
   {
-    "grades": [0],
+    "grades": [-1],
     "for": "Everyone",
     "id": "0000008",
     "name": "Aniruddho Kabbo",
@@ -72,7 +72,7 @@
     "quote": "I will teach you how to draw."
   },
   {
-    "grades": [0],
+    "grades": [-1],
     "for": "Everyone",
     "id": "0000009",
     "name": "Elmul Soad",
