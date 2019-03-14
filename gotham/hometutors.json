@@ -4,7 +4,7 @@
     "for": "Everyone",
     "id": "001",
     "name": "Joker",
-    "subject": "Jokery",
+    "subjects": ["Jokery"],
     "phone": "01704996063",
     "quote": "I'll put a smile to your face!"
   },
@@ -13,7 +13,7 @@
     "name": "Bruce Wayne",
     "for": "Class 9, 10",
     "id": "002",
-    "subject": "Martial Arts",
+    "subject": ["Martial Arts"],
     "phone": "01704996063",
     "quote": "I'm Batman!"
   }
