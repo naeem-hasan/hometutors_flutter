@@ -4,7 +4,7 @@
     "for": "Class 8 to 12",
     "id": "0000005",
     "name": "Naeem Hasan",
-    "subject": "Programming",
+    "subjects": ["Programming", "Photoshop"],
     "phone": "01704996063",
     "quote": "I just love to teach!"
   },
@@ -13,16 +13,16 @@
     "name": "Ranat Das Prangon",
     "for": "Class 9, 10",
     "id": "0000001",
-    "subject": "Physics",
+    "subjects": ["Physics", "Higher Mathematics"],
     "phone": "01704996063",
     "quote": "I am the boss of Physics!"
   },
   {
     "grades" : [5],
-    "for": "Class 1 to 5",
+    "for": "Class 2 to 5",
     "id": "0000002",
     "name": "Nahid Hassan Shovo",
-    "subject": "Mathematics",
+    "subjects": "Mathematics",
     "phone": "01704996063",
     "quote": "I can help you with mathematics."
   },
@@ -31,7 +31,7 @@
     "for": "Class 9, 10",
     "id": "0000003",
     "name": "Arup Aich",
-    "subject": "Astronomy",
+    "subjects": ["Astronomy", "Programming"],
     "phone": "01704996063",
     "quote": "Teaching and learning about astronomy is my passion."
   },
@@ -40,7 +40,7 @@
     "for": "Class 6, 7, 8",
     "id": "0000004",
     "name": "Bruce Wayne",
-    "subject": "Martial Arts",
+    "subjects": "Martial Arts",
     "phone": "01704996063",
     "quote": "I AM BATMAN. Enough talk."
   },
@@ -49,7 +49,7 @@
     "for": "Everyone",
     "id": "0000006",
     "name": "Sopiko Guramishvili",
-    "subject": "Chess Openings",
+    "subjects": "Chess Openings",
     "phone": "01704996063",
     "quote": "I am going to show you how to master chess openings!"
   },
@@ -58,7 +58,7 @@
     "for": "Everyone",
     "id": "0000007",
     "name": "Ashraful Islam Liyad",
-    "subject": "Singing",
+    "subjects": "Singing",
     "phone": "01704996063",
     "quote": "I want to be your Ostadji."
   },
@@ -67,7 +67,7 @@
     "for": "Everyone",
     "id": "0000008",
     "name": "Aniruddho Kabbo",
-    "subject": "Drawing",
+    "subjects": "Drawing",
     "phone": "01704996063",
     "quote": "I will teach you how to draw."
   },
@@ -76,16 +76,16 @@
     "for": "Everyone",
     "id": "0000009",
     "name": "Elmul Soad",
-    "subject": "All",
+    "subjects": "All",
     "phone": "01704996063",
-    "quote": "I am the master of everything, I can teach you all subjects."
+    "quote": "I am the master of everything, I can teach you all subjectss."
   },
   {
     "grades": [10],
     "for": "Class 9, 10",
     "id": "0000010",
     "name": "Anjaman Arefin Somit",
-    "subject": "Chemistry",
+    "subjects": "Chemistry",
     "phone": "01704996063",
     "quote": "Work hard and you'll conquer the world."
   },
@@ -94,16 +94,16 @@
     "for": "Class 1 to 5",
     "id": "0000011",
     "name": "Musrat Mahzabin",
-    "subject": "Mathematics",
+    "subjects": "Mathematics",
     "phone": "01704996063",
     "quote": "I am a beauty with brains, so call me!"
   },
   {
-    "grades": [8, 10, 12],
+    "grades": [8, 10],
     "for": "Class 5 to 10",
     "id": "0000012",
     "name": "Shanjeeda Swarna",
-    "subject": "All subjects",
+    "subjects": "Chemistry",
     "phone": "01704996063",
     "quote": "Don't waste time, or time will waste you."
   }
