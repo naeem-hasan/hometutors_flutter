@@ -6,7 +6,8 @@
     "name": "Joker",
     "subjects": ["Jokery"],
     "phone": "01704996063",
-    "quote": "I'll put a smile to your face!"
+    "quote": "I'll put a smile to your face!",
+    "fb_id": "wizard.naeemhasan"
   },
   {
     "grades": [10],
@@ -15,6 +16,7 @@
     "id": "002",
     "subjects": ["Martial Arts"],
     "phone": "01704996063",
-    "quote": "I'm Batman!"
+    "quote": "I'm Batman!",
+    "fb_id": "wizard.naeemhasan"
   }
 ]
