@@ -12,7 +12,9 @@
     "ad_id" : "ad001",
     "title" : "Custom advertisement!",
     "subtitle" : "You can add your custom advertisement here! Just contact the developers.",
-    "phone" : "01704996063"
+    "phone" : "01704996063",
+    "grades" : [-1, 5, 8, 10, 12],
+    "subjects" : []
   },
   {
     "grades" : [10],
