@@ -13,7 +13,7 @@
     "name": "Bruce Wayne",
     "for": "Class 9, 10",
     "id": "002",
-    "subject": ["Martial Arts"],
+    "subjects": ["Martial Arts"],
     "phone": "01704996063",
     "quote": "I'm Batman!"
   }
