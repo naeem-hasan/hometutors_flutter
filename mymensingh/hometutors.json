@@ -1,5 +1,13 @@
 [
   {
+    "ad_id" : "ad002",
+    "title" : "Naeem ad!",
+    "subtitle" : "You can add your custom advertisement here! Just contact the developers.",
+    "phone" : "01704996063",
+    "grades" : [10, 12],
+    "subjects" : []
+  },
+  {
     "grades" : [8, 10, 12],
     "for": "Class 8 to 12",
     "id": "0000005",
