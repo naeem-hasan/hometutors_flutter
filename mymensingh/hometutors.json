@@ -1,138 +1,22 @@
 [
   {
-    "ad_id" : "ad002",
-    "title" : "Naeem ad!",
-    "subtitle" : "You can add your custom advertisement here! Just contact the developers.",
-    "phone" : "01704996063",
     "grades" : [10, 12],
-    "subjects" : []
+    "for": "SSC, HSC",
+    "id": "001",
+    "name": "Sakee Alam",
+    "subjects": ["Physics"],
+    "phone": "+8801712085195",
+    "quote": "I recreate myself, that's my only power.",
+    "fb_id": "SakeeAlam"
   },
   {
-    "grades" : [8, 10, 12],
-    "for": "Class 8 to 12",
-    "id": "0000005",
-    "name": "Naeem Hasan",
-    "subjects": ["Programming", "Photoshop"],
-    "phone": "01704996063",
-    "quote": "I just love to teach!",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "ad_id" : "ad001",
-    "title" : "Custom advertisement!",
-    "subtitle" : "You can add your custom advertisement here! Just contact the developers.",
-    "phone" : "01704996063",
-    "grades" : [-1, 5, 8, 10, 12],
-    "subjects" : []
-  },
-  {
-    "grades" : [10],
-    "name": "Ranat Das Prangon",
-    "for": "Class 9, 10",
-    "id": "0000001",
-    "subjects": ["Physics", "Higher Mathematics"],
-    "phone": "N/A for privacy concerns",
-    "quote": "I am the boss of Physics!",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades" : [5],
-    "for": "Class 2 to 5",
-    "id": "0000002",
-    "name": "Nahid Hassan Shovo",
-    "subjects": ["Mathematics"],
-    "phone": "01704996063",
-    "quote": "I can help you with mathematics.",
-    "fb_id": ""
-  },
-  {
-    "grades" : [10],
-    "for": "Class 9, 10",
-    "id": "0000003",
-    "name": "Arup Aich",
-    "subjects": ["Astronomy", "Programming"],
-    "phone": "01704996063",
-    "quote": "Teaching and learning about astronomy is my passion.",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades": [8],
-    "for": "Class 6, 7, 8",
-    "id": "0000004",
-    "name": "Bruce Wayne",
-    "subjects": ["Martial Arts"],
-    "phone": "N/A for privacy concerns",
-    "quote": "I AM BATMAN. Enough talk.",
-    "fb_id": ""
-  },
-  {
-    "grades": [-1],
-    "for": "Everyone",
-    "id": "0000006",
-    "name": "Sopiko Guramishvili",
-    "subjects": ["Chess Openings"],
-    "phone": "01704996063",
-    "quote": "I am going to show you how to master chess openings!",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades": [-1],
-    "for": "Everyone",
-    "id": "0000007",
-    "name": "Ashraful Islam Liyad",
-    "subjects": ["Singing"],
-    "phone": "01704996063",
-    "quote": "I want to be your Ostadji.",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades": [-1],
-    "for": "Everyone",
-    "id": "0000008",
-    "name": "Aniruddho Kabbo",
-    "subjects": ["Drawing"],
-    "phone": "01704996063",
-    "quote": "I will teach you how to draw.",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades": [-1],
-    "for": "Everyone",
-    "id": "0000009",
-    "name": "Elmul Soad",
-    "subjects": ["Physics", "Mathematics", "Chemistry", "Biology"],
-    "phone": "01704996063",
-    "quote": "I am the master of everything, I can teach you all subjectss.",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades": [10],
-    "for": "Class 9, 10",
-    "id": "0000010",
-    "name": "Anjaman Arefin Somit",
-    "subjects": ["Chemistry"],
-    "phone": "01704996063",
-    "quote": "Work hard and you'll conquer the world.",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades": [5],
-    "for": "Class 1 to 5",
-    "id": "0000011",
-    "name": "Musrat Mahzabin",
-    "subjects": ["Mathematics"],
-    "phone": "01704996063",
-    "quote": "I am a beauty with brains, so call me!",
-    "fb_id": "wizard.naeemhasan"
-  },
-  {
-    "grades": [8, 10],
-    "for": "Class 5 to 10",
-    "id": "0000012",
-    "name": "Shanjeeda Swarna",
-    "subjects": ["Chemistry"],
-    "phone": "01704996063",
-    "quote": "Don't waste time, or time will waste you.",
-    "fb_id": "wizard.naeemhasan"
+    "grades" : [12],
+    "name": "Rakin Ahmed",
+    "for": "HSC",
+    "id": "002",
+    "subjects": ["Chemistry", "Biology"],
+    "phone": "+8801751349434",
+    "quote": "When you fly high, people will throw stones at you. Don't look down. Just fly higher as the stones don't reach you.",
+    "fb_id": "rakinahmed.rakinahmed.33"
   }
 ]
