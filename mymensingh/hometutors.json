@@ -18,5 +18,35 @@
     "phone": "+8801751349434",
     "quote": "When you fly high, people will throw stones at you. Don't look down. Just fly higher as the stones don't reach you.",
     "fb_id": "rakinahmed.rakinahmed.33"
+  },
+  {
+    "grades" : [12],
+    "name": "Minhaz Uddin",
+    "for": "SSC",
+    "id": "003",
+    "subjects": ["Chemistry"],
+    "phone": "+8801627061602",
+    "quote": "-",
+    "fb_id": "Affable.man.23"
+  },
+  {
+    "grades" : [10, 12],
+    "name": "Eliash Ahmed",
+    "for": "SSC, HSC",
+    "id": "004",
+    "subjects": ["Chemistry"],
+    "phone": "+8801767939777",
+    "quote": "-",
+    "fb_id": "elieash.ahmed"
+  },
+  {
+    "grades" : [10, 12],
+    "name": "MD Ashikur Rahman",
+    "for": "SSC, HSC",
+    "id": "005",
+    "subjects": ["Chemistry", "Physics", "Biology"],
+    "phone": "+8801674442717",
+    "quote": "-",
+    "fb_id": "ashiqur.rahaman.50"
   }
 ]
