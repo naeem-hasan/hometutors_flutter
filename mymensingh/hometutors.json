@@ -1,58 +1,78 @@
 [
   {
-    "ad_id" : "ad001",
-    "title" : "Naeem ad!",
-    "subtitle" : "You can add your custom advertisement here! Just contact the developers!",
-    "phone" : "01704996063",
-    "grades" : [10, 12],
-    "subjects" : []
-  },
-  {
-    "grades" : [10, 12],
+    "grades": [
+      10,
+      12
+    ],
     "for": "SSC, HSC",
     "id": "001",
     "name": "Sakee Alam",
-    "subjects": ["Physics"],
+    "subjects": [
+      "Physics"
+    ],
     "phone": "+8801712085195",
     "quote": "I recreate myself, that's my only power.",
     "fb_id": "SakeeAlam"
   },
   {
-    "grades" : [12],
+    "grades": [
+      12
+    ],
     "name": "Rakin Ahmed",
     "for": "HSC",
     "id": "002",
-    "subjects": ["Chemistry", "Biology"],
+    "subjects": [
+      "Chemistry",
+      "Biology"
+    ],
     "phone": "+8801751349434",
     "quote": "When you fly high, people will throw stones at you. Don't look down. Just fly higher as the stones don't reach you.",
     "fb_id": "rakinahmed.rakinahmed.33"
   },
   {
-    "grades" : [10],
+    "grades": [
+      10
+    ],
     "name": "Minhaz Uddin",
     "for": "SSC",
     "id": "003",
-    "subjects": ["Physics", "Chemistry", "Biology"],
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Biology"
+    ],
     "phone": "+8801627061602",
     "quote": "Everyone thinks of changing the world but no one thinks of changing himself.\n-Leo Tolstoy",
     "fb_id": "Affable.man.23"
   },
   {
-    "grades" : [10, 12],
+    "grades": [
+      10,
+      12
+    ],
     "name": "Eliash Ahmed",
     "for": "SSC, HSC",
     "id": "004",
-    "subjects": ["Chemistry"],
+    "subjects": [
+      "Chemistry"
+    ],
     "phone": "+8801767939777",
     "quote": "-",
     "fb_id": "elieash.ahmed"
   },
   {
-    "grades" : [10, 12],
+    "grades": [
+      10,
+      12
+    ],
     "name": "MD Ashikur Rahman",
     "for": "SSC, HSC",
     "id": "005",
-    "subjects": ["Chemistry", "Physics", "Biology"],
+    "subjects": [
+      "Chemistry",
+      "Physics",
+      "Biology"
+    ],
     "phone": "+8801674442717",
     "quote": "-",
     "fb_id": "ashiqur.rahaman.50"
