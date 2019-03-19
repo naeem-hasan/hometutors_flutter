@@ -1,5 +1,13 @@
 [
   {
+    "ad_id" : "ad002",
+    "title" : "Naeem ad!",
+    "subtitle" : "You can add your custom advertisement here! Just contact the developers!",
+    "phone" : "01704996063",
+    "grades" : [10, 12],
+    "subjects" : []
+  },
+  {
     "grades" : [10, 12],
     "for": "SSC, HSC",
     "id": "001",
@@ -20,11 +28,11 @@
     "fb_id": "rakinahmed.rakinahmed.33"
   },
   {
-    "grades" : [12],
+    "grades" : [10],
     "name": "Minhaz Uddin",
     "for": "SSC",
     "id": "003",
-    "subjects": ["Chemistry"],
+    "subjects": ["Physics", "Chemistry", "Biology"],
     "phone": "+8801627061602",
     "quote": "-",
     "fb_id": "Affable.man.23"
