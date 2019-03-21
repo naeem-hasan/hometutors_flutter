@@ -1,6 +1,33 @@
 [
   {
     "grades": [
+      12
+    ],
+    "for": "HSC",
+    "id": "006",
+    "name": "Tanvir Rony",
+    "subjects": [
+      "Higher Mathematics"
+    ],
+    "phone": "+8801670044880",
+    "quote": "To be added.",
+    "fb_id": "ronyomeca"
+  },
+  {
+    "grades": [
+      12
+    ],
+    "id": "007",
+    "name": "Debabrata Chakraborty",
+    "subjects": [
+      "Biology"
+    ],
+    "phone": "+8801734861285",
+    "quote": "কথা বুঝছো কিনা বলো!",
+    "fb_id": "debabrata.chakraborty.7"
+  },
+  {
+    "grades": [
       10,
       12
     ],
@@ -28,6 +55,20 @@
     "phone": "+8801751349434",
     "quote": "When you fly high, people will throw stones at you. Don't look down. Just fly higher as the stones don't reach you.",
     "fb_id": "rakinahmed.rakinahmed.33"
+  },
+  {
+    "grades": [
+      10, 12
+    ],
+    "name": "Sultan Sazebul Shohan",
+    "for": "SSC, HSC",
+    "id": "008",
+    "subjects": [
+      "Higher Mathematics"
+    ],
+    "phone": "+8801759713678",
+    "quote": "Better confidence is the key to your best performance. Mathematics make your confidence level so high and I will show you that.",
+    "fb_id": "muttiah.shohanidharan"
   },
   {
     "grades": [
