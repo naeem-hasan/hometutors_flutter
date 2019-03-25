@@ -1,6 +1,35 @@
 [
   {
     "grades": [
+      10,
+      12
+    ],
+    "for": "SSC, HSC",
+    "id": "010",
+    "name": "শাকিল আহমেদ (আনার)",
+    "subjects": [
+      "ICT", "Chemistry", "Biology", "Physics", "English"
+    ],
+    "phone": "+8801705251942",
+    "quote": "পারো যদি তো একটা পেন্সিল হয়ে যাও, যাতে করে কারো জীবনে সুখের কিছু গল্প লেখতে পারো। নতুবা, পারো যদি তো একটা রাবার হয়ে যাও, যাতে করে কারো জীবনের দুঃখের কিছু গল্প মুছে দিতে পারো!",
+    "fb_id": "nishongosherpa1998"
+  },
+  {
+    "grades": [
+      12
+    ],
+    "for": "HSC, Admission",
+    "id": "009",
+    "name": "Zahid Hasan Prince",
+    "subjects": [
+      "Physics"
+    ],
+    "phone": "+8801521416511",
+    "quote": "I have promises to keep and miles to go before I sleep.",
+    "fb_id": "zahidhasan.prince.18"
+  },
+  {
+    "grades": [
       12
     ],
     "for": "HSC, Admission",
