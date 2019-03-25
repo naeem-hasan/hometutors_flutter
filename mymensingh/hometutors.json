@@ -1,6 +1,48 @@
 [
   {
     "grades": [
+      12
+    ],
+    "for": "HSC",
+    "id": "013",
+    "name": "Md. Shahriar Kabir",
+    "subjects": [
+      "Biology"
+    ],
+    "phone": "N/A",
+    "quote": "Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "fb_id": "skmueenn"
+  },
+  {
+    "grades": [
+      10
+    ],
+    "for": "SSC",
+    "id": "012",
+    "name": "Sabbir Hossain Himel",
+    "subjects": [
+      "Physics", "Chemistry", "Biology"
+    ],
+    "phone": "+8801670690222",
+    "quote": "Have faith in yourself & follow your senior fellow.",
+    "fb_id": "ptw391"
+  },
+  {
+    "grades": [
+      12
+    ],
+    "for": "HSC, Admission",
+    "id": "011",
+    "name": "MD. M. N. Azim",
+    "subjects": [
+      "ICT", "Physics", "Higher Mathematics", "Chemistry", "ICT", "Biology"
+    ],
+    "phone": "+8801824616122",
+    "quote": "A teacher is like a candle - it consumes to light the way of others",
+    "fb_id": "md.shammo.77"
+  },
+  {
+    "grades": [
       10,
       12
     ],
@@ -18,7 +60,7 @@
     "grades": [
       12
     ],
-    "for": "HSC, Admission",
+    "for": "HSC",
     "id": "009",
     "name": "Zahid Hasan Prince",
     "subjects": [
