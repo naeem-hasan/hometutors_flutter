@@ -1,6 +1,80 @@
 [
   {
     "grades": [
+      8,
+      10
+    ],
+    "for": "Class 6-8, SSC",
+    "id": "018",
+    "name": "Kamruzzaman Shourov",
+    "subjects": [
+      "Chemistry", "Physics", "Mathematics"
+    ],
+    "phone": "+8801789125236",
+    "quote": "There are no secrets to success. It is the result of preparation, hard work and learning from failure...",
+    "fb_id": ""
+  },
+  {
+    "grades": [
+      10
+    ],
+    "for": "SSC",
+    "id": "017",
+    "name": "Rafi Ahmed",
+    "subjects": [
+      "Physics", "Chemistry", "Mathematics", "Biology"
+    ],
+    "phone": "+8801678356232",
+    "quote": "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.",
+    "fb_id": "rafiahmed1010"
+  },
+  {
+    "grades": [
+      10,
+      12
+    ],
+    "for": "SSC, HSC",
+    "id": "016",
+    "name": "Fardin Arnab",
+    "subjects": [
+      "Biology"
+    ],
+    "phone": "+8801724259229",
+    "quote": "Hard work beats talent when talent fails to work hard.",
+    "fb_id": ""
+  },
+  {
+    "grades": [
+      10,
+      12
+    ],
+    "for": "SSC, HSC",
+    "id": "",
+    "name": "MD Towhedul  Haque",
+    "subjects": [
+      "Accounting", "Finance"
+    ],
+    "phone": "+8801775423203",
+    "quote": "Which would be worse, to live as monster or to die as a good man?",
+    "fb_id": ""
+  },
+  {
+    "grades": [
+      10,
+      12
+    ],
+    "for": "SSC, HSC",
+    "id": "014",
+    "name": "FH Rabbi",
+    "subjects": [
+      "Physics", "Chemistry", "Mathematics", "English"
+    ],
+    "phone": "+8801677933928",
+    "quote": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+    "fb_id": "imfhr"
+  },
+  {
+    "grades": [
       12
     ],
     "for": "HSC",
@@ -35,7 +109,7 @@
     "id": "011",
     "name": "MD. M. N. Azim",
     "subjects": [
-      "ICT", "Physics", "Higher Mathematics", "Chemistry", "ICT", "Biology"
+      "ICT", "Physics", "Mathematics", "Chemistry", "ICT", "Biology"
     ],
     "phone": "+8801824616122",
     "quote": "A teacher is like a candle - it consumes to light the way of others",
@@ -78,7 +152,7 @@
     "id": "006",
     "name": "Tanvir Rony",
     "subjects": [
-      "Higher Mathematics", "Admission Mathematics"
+      "Mathematics", "Admission Mathematics"
     ],
     "phone": "+8801670044880",
     "quote": "Pure mathematics is, in its way, the poetry of logical ideas.",
@@ -136,7 +210,7 @@
     "for": "SSC, HSC",
     "id": "008",
     "subjects": [
-      "Higher Mathematics"
+      "Mathematics"
     ],
     "phone": "+8801759713678",
     "quote": "Better confidence is the key to your best performance. Mathematics make your confidence level so high and I will show you that.",
