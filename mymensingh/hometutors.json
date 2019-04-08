@@ -60,10 +60,9 @@
   },
   {
     "grades": [
-      10,
       12
     ],
-    "for": "SSC, HSC",
+    "for": "HSC",
     "id": "014",
     "name": "FH Rabbi",
     "subjects": [
