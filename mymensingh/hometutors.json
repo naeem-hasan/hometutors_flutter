@@ -1,4 +1,21 @@
 [
+  {
+    "grades": [
+      8,
+      10
+    ],
+    "for": "Class 6-8, SSC",
+    "id": "021",
+    "name": "Shahjahan Ali",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ],
+    "phone": "+8801954120150",
+    "quote": "Hard work beats talent when talent fails to work hard",
+    "fb_id": ""
+  },
 
   {
     "grades": [

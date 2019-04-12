@@ -1,7 +1,13 @@
 [
   {
     "Mymensingh": "mymensingh",
-    "Banani (Dhaka)": "banani",
+    "Dhaka": "dhaka",
+    "Rajshahi": "rajshahi",
+    "Sylhet": "sylhet",
+    "Barisal": "barisal",
+    "Chittagong": "chittagong",
+    "Rangpur": "rangpur",
+    "Khulna": "khulna",
     "Gotham City": "gotham"
   }
 ]
