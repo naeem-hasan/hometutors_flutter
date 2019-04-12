@@ -5,6 +5,25 @@
       10
     ],
     "for": "Class 6-8, SSC",
+    "id": "022",
+    "name": "Pantha Ukil",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Science(6-8)"
+    ],
+    "phone": "01777265365",
+    "quote": "সফলতা পেতে হলে আত্মবিশ্বাসী হতে হবে।",
+    "fb_id": ""
+  },
+  {
+    "grades": [
+      8,
+      10
+    ],
+    "for": "Class 6-8, SSC",
     "id": "021",
     "name": "Shahjahan Ali",
     "subjects": [
@@ -63,7 +82,7 @@
       "Chemistry",
       "Physics",
       "Mathematics",
-      "Science"
+      "Science(6-8)"
     ],
     "phone": "+8801789125236",
     "quote": "There are no secrets to success. It is the result of preparation, hard work and learning from failure...",
