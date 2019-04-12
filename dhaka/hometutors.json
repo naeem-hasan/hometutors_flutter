@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "grades": [
+          10,
+          12
+        ],
+        "for": "SSC, HSC",
+        "id": "001",
+        "name": "Salman Saharia",
+        "subjects": [
+          "Mathematics",
+          "Physics",
+          "Chemistry",
+          "Biology",
+          "English",
+          "ICT"
+        ],
+        "phone": "",
+        "quote": "Hard work beats talent when talent fails to work hard.",
+        "fb_id": "profile.php?id=100011508270565"
+    }
+]
