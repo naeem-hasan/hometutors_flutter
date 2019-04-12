@@ -1,6 +1,23 @@
 [
   {
     "grades": [
+      10,
+      12
+    ],
+    "for": "SSC, HSC",
+    "id": "019",
+    "name": "Ezazul Bari Shuvo",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics"
+    ],
+    "phone": "+8801729335778",
+    "quote": "একজন শিক্ষক শুধু সঠিক পথ দেখাতে পারে কিন্তু পড়ালেখা সম্পূর্ণ নিজের কাছে।",
+    "fb_id": ""
+  },
+  {
+    "grades": [
       8,
       10
     ],
@@ -8,7 +25,10 @@
     "id": "018",
     "name": "Kamruzzaman Shourov",
     "subjects": [
-      "Chemistry", "Physics", "Mathematics"
+      "Chemistry",
+      "Physics",
+      "Mathematics",
+      "Science"
     ],
     "phone": "+8801789125236",
     "quote": "There are no secrets to success. It is the result of preparation, hard work and learning from failure...",
@@ -22,7 +42,10 @@
     "id": "017",
     "name": "Rafi Ahmed",
     "subjects": [
-      "Physics", "Chemistry", "Mathematics", "Biology"
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
     ],
     "phone": "+8801678356232",
     "quote": "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.",
@@ -52,7 +75,8 @@
     "id": "015",
     "name": "MD Towhedul Haque",
     "subjects": [
-      "Accounting", "Finance"
+      "Accounting",
+      "Finance"
     ],
     "phone": "+8801775423203",
     "quote": "Which would be worse, to live as monster or to die as a good man?",
@@ -66,7 +90,10 @@
     "id": "014",
     "name": "FH Rabbi",
     "subjects": [
-      "Physics", "Chemistry", "Mathematics", "English"
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "English"
     ],
     "phone": "+8801677933928",
     "quote": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
@@ -94,7 +121,9 @@
     "id": "012",
     "name": "Sabbir Hossain Himel",
     "subjects": [
-      "Physics", "Chemistry", "Biology"
+      "Physics",
+      "Chemistry",
+      "Biology"
     ],
     "phone": "+8801670690222",
     "quote": "Have faith in yourself & follow your senior fellow.",
@@ -108,7 +137,12 @@
     "id": "011",
     "name": "MD. M. N. Azim",
     "subjects": [
-      "ICT", "Physics", "Mathematics", "Chemistry", "ICT", "Biology"
+      "ICT",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "ICT",
+      "Biology"
     ],
     "phone": "+8801824616122",
     "quote": "A teacher is like a candle - it consumes to light the way of others",
@@ -123,7 +157,11 @@
     "id": "010",
     "name": "শাকিল আহমেদ (আনার)",
     "subjects": [
-      "ICT", "Chemistry", "Biology", "Physics", "English"
+      "ICT",
+      "Chemistry",
+      "Biology",
+      "Physics",
+      "English"
     ],
     "phone": "+8801705251942",
     "quote": "পারো যদি তো একটা পেন্সিল হয়ে যাও, যাতে করে কারো জীবনে সুখের কিছু গল্প লেখতে পারো। নতুবা, পারো যদি তো একটা রাবার হয়ে যাও, যাতে করে কারো জীবনের দুঃখের কিছু গল্প মুছে দিতে পারো!",
@@ -151,7 +189,8 @@
     "id": "006",
     "name": "Tanvir Rony",
     "subjects": [
-      "Mathematics", "Admission Mathematics"
+      "Mathematics",
+      "Admission Mathematics"
     ],
     "phone": "+8801670044880",
     "quote": "Pure mathematics is, in its way, the poetry of logical ideas.",
@@ -203,7 +242,8 @@
   },
   {
     "grades": [
-      10, 12
+      10,
+      12
     ],
     "name": "Sultan Sazebul Shohan",
     "for": "SSC, HSC",
