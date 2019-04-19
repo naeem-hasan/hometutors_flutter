@@ -18,5 +18,21 @@
         "phone": "N/A",
         "quote": "Hard work beats talent when talent fails to work hard.",
         "fb_id": "100011508270565"
+    },
+
+    {
+        "grades": [
+          5,
+          8
+        ],
+        "for": "Class 2-5, Class 6-8",
+        "id": "002",
+        "name": "Sahabuddin Ahmed",
+        "subjects": [
+          "All"
+        ],
+        "phone": "01752086037",
+        "quote": "শিখতে ও শিখাতে আমার ভালো লাগে! আর গণিত হলে তো কথাই নেই।",
+        "fb_id": ""
     }
 ]
