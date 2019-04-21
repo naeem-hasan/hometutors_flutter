@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "grades": [
+          5,
+          8
+        ],
+        "for": "Class 2-5, Class 6-8",
+        "id": "001",
+        "name": "Fariha Tabassum",
+        "subjects": [
+          "Bangla",
+          "English",
+          "Bangladesh and Global Studies",
+          "Religion"
+        ],
+        "phone": "01626347300",
+        "quote": "Stay positive, work hard and make it happen.",
+        "fb_id": ""
+    }
+]
