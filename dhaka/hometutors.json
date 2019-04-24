@@ -1,4 +1,79 @@
 [
+    
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "008",
+      "name": "Hridoy",
+      "subjects": [
+        "All(1-8)",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ],
+      "phone": "01767761497",
+      "quote": "Education is backbone of a nation...So I am interested for teaching students and learn more.",
+      "fb_id": "hridoy.exc"
+   },
+
+    {
+      "grades": [
+        10
+      ],
+      "for": "SSC",
+      "id": "007",
+      "name": "Mir Muhammad Delowar Hussain",
+      "subjects": [
+        "Mathematics",
+        "Physics",
+        "Chemistry"
+      ],
+      "phone": "01715121308",
+      "quote": "Mathematics is pleasure to me.",
+      "fb_id": ""
+   },
+
+    {
+        "grades": [
+          10,
+          12
+        ],
+        "for": "SSC, HSC",
+        "id": "006",
+        "name": "Md. Hasan-uz-zaman Khan",
+        "subjects": [
+          "Physics",
+          "Chemistry",
+          "ICT",
+          "Biology"
+        ],
+        "phone": "01676276892",
+        "quote": "বাচতে হলে শিখতে হবে",
+        "fb_id": ""
+   },
+
+    {
+        "grades": [
+          5
+        ],
+        "for": "Class 2-5",
+        "id": "005",
+        "name": "MD. ROHIDUZZAMAN MONDAL",
+        "subjects": [
+          "Mathematics",
+          "English",
+          "Bangla"
+        ],
+        "phone": "01708548776",
+        "quote": "যেটুকু শেখাবো জেনে শেখাবো অার সবসময় সেরাটাই দিতে চেষ্টা করবো।",
+        "fb_id": ""
+   },
+
     {
         "grades": [
           5

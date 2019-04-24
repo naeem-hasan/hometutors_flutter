@@ -1,4 +1,24 @@
 [
+  {
+    "grades": [
+      8,
+      10
+    ],
+    "for": "Class 6-8, SSC",
+    "id": "023",
+    "name": "Mahmud Islam",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "ICT",
+      "Science(6-8)"
+      
+    ],
+    "phone": "01728252039",
+    "quote": "Don't stop when you are tired. Stop when you are done.",
+    "fb_id": ""
+  },
   
   {
     "grades": [
@@ -197,7 +217,6 @@
       "Physics",
       "Mathematics",
       "Chemistry",
-      "ICT",
       "Biology"
     ],
     "phone": "+8801824616122",
