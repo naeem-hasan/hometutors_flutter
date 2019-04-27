@@ -1,4 +1,25 @@
 [
+
+  {
+    "grades": [
+      5,
+      8,
+      10
+    ],
+    "for": "Class 2-5, Class 6-8, SSC",
+    "id": "024",
+    "name": "Saikat Roy",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Biology",
+      "Science(6-8)"
+    ],
+    "phone": "01767300861",
+    "quote": "Work Hard in Silence, let Your Success be your Noise.",
+    "fb_id": "eyecorus.saikat"
+  },
+
   {
     "grades": [
       8,

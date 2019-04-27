@@ -1,4 +1,21 @@
 [
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "010",
+      "name": "Md Bulbul Ahmmed",
+      "subjects": [
+        "All"
+      ],
+      "phone": "01734754320",
+      "quote": "শিক্ষার আগুন ছড়িয়ে দাও।",
+      "fb_id": ""
+  },
  
     {
       "grades": [
