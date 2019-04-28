@@ -2,6 +2,30 @@
 
     {
       "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "003",
+      "name": "Golam Mortuza",
+      "subjects": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "ICT",
+        "Science(6-8)", 
+        "English",
+        "Bangla"
+      ],
+      "phone": "01684748662",
+      "quote": "জোর করে নয়, ইচ্ছাশক্তি দিয়ে সব কিছু জয় করতে হয়।",
+      "fb_id": ""
+    },
+
+    {
+      "grades": [
         5
       ],
       "for": "Class 2-5",
