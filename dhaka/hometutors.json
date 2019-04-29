@@ -4,6 +4,28 @@
       "grades": [
         5,
         8,
+        10,
+        12
+      ],
+      "for": "Class 2-5, Class 6-8, SSC, HSC",
+      "id": "011",
+      "name": "Sifat",
+      "subjects": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Science(6-8)"
+      ],
+      "phone": "01755426105",
+      "quote": "শিক্ষা নয় সুশিক্ষাই জাতির মেরুদণ্ড।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
         10
       ],
       "for": "Class 2-5, Class 6-8, SSC",
