@@ -1,4 +1,37 @@
-[
+[ 
+
+   {
+      "grades": [
+        5
+      ],
+      "for": "Class 2-5",
+      "id": "013",
+      "name": "Shahnaz Shara",
+      "subjects": [
+        "All",
+        "All(Except Mathematics and English, Class: 4-5, English Version)"
+      ],
+      "phone": "01906563700",
+      "quote": "নিজে শেখার পাশাপাশি শেখাতেও আমার অনেক ভাল লাগে।",
+      "fb_id": "shahnazshara7"
+  },
+
+   {
+      "grades": [
+        8,
+        10
+      ],
+      "for": "Class 6-8, SSC",
+      "id": "012",
+      "name": "Shahin Alam",
+      "subjects": [
+        "Mathematics"
+        "English"
+      ],
+      "phone": "01856085378",
+      "quote": "শুধু পড়াতে নয়, স্বপ্ন দেখাতেও চাই। যা মানুষকে উন্নতিরদিকে নিয়ে যায়।",
+      "fb_id": ""
+  },
 
     {
       "grades": [
