@@ -1,5 +1,26 @@
 [ 
 
+    {
+      "grades": [
+        5,
+        8,
+        10,
+        12
+      ],
+      "for": "Class 2-5, Class 6-8, SSC, HSC",
+      "id": "015",
+      "name": "Md. Omor Faruk",
+      "subjects": [
+        "Mathematics",
+        "English",
+        "ICT",
+        "Economics"
+      ],
+      "phone": "01773169103",
+      "quote": "ইনশাআল্লা, আপনার পছন্দের শিক্ষক হতে পারবো।",
+      "fb_id": ""
+  },
+
    {
       "grades": [
         5,
@@ -78,7 +99,7 @@
       ],
       "for": "Class 2-5, Class 6-8, SSC",
       "id": "010",
-      "name": "Md Bulbul Ahmmed",
+      "name": "Md. Bulbul Ahmmed",
       "subjects": [
         "All"
       ],
