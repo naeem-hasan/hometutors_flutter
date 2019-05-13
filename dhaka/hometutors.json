@@ -2,6 +2,26 @@
 
     {
       "grades": [
+        8,
+        10,
+        12
+      ],
+      "for": "Class 6-8, SSC, HSC",
+      "id": "020",
+      "name": "Saddam Hossain",
+      "subjects": [
+        "English",
+        "Accounting",
+        "Finance",
+        "Mathematics"
+      ],
+      "phone": "01675564947",
+      "quote": "All's Well That Ends Well.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
         5,
         8,
         10
