@@ -7,6 +7,25 @@
         12
       ],
       "for": "Class 6-8, SSC, HSC",
+      "id": "021",
+      "name": "ইফতেখার আহমেদ",
+      "subjects": [
+        "English",
+        "Mathematics",
+        "Science(6-8)"
+      ],
+      "phone": "01521401504",
+      "quote": "Study smarter than harder.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        8,
+        10,
+        12
+      ],
+      "for": "Class 6-8, SSC, HSC",
       "id": "020",
       "name": "Saddam Hossain",
       "subjects": [
