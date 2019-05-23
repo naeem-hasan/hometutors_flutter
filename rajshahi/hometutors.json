@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "grades": [
+          5,
+          8,
+          10,
+          12
+        ],
+        "for": "Class 2-5, Class 6-8, SSC, HSC",
+        "id": "001",
+        "name": "Mushfiqur Rahman",
+        "subjects": [
+          "Accounting",
+          "Bangla",
+          "English",
+          "Mathematics",
+          "Management",
+          "Marketing"
+        ],
+        "phone": "01671043635",
+        "quote": "Hard work beats talent when talent fails to work hard.",
+        "fb_id": "mushfiqur.rahman.7334"
+   },
+]
