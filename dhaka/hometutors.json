@@ -3,6 +3,96 @@
     {
       "grades": [
         5,
+        10
+      ],
+      "for": "Class 2-5, SSC",
+      "id": "030",
+      "name": "Sharif Tarikul Islam",
+      "subjects": [
+        "All"
+      ],
+      "phone": "01759018266",
+      "quote": "I like to teach English cause it's my favorite course.",
+      "fb_id": ""
+  },
+    
+    {
+      "grades": [
+        5
+      ],
+      "for": "Class 2-5",
+      "id": "029",
+      "name": "জাহিদুল দেওয়ান",
+      "subjects": [
+        "Bangla",
+        "Science",
+        "Mathematics"
+      ],
+      "phone": "01950662668",
+      "quote": "শিখতে ও শিখাতে ভালো লাগে।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "028",
+      "name": "Kazi Mahir Ashef",
+      "subjects": [
+        "Mathematics",
+        "Science(6-8)",
+        "English"
+      ],
+      "phone": "01725283331",
+      "quote": "Live like a hero.",
+      "fb_id": "mahir.ashef.1"
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "027",
+      "name": "Abdullah Durjoy",
+      "subjects": [
+        "Mathematics",
+        "Physics",
+        "Chemistry"
+      ],
+      "phone": "01716677794",
+      "quote": "You can if you think you can.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "026",
+      "name": "MD. Naimul Haque",
+      "subjects": [
+        "All(2-8)",
+        "Physics",
+        "Biology"
+      ],
+      "phone": "01774469630",
+      "quote": "Hard work beats talent when talent fails to work hard.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
         8,
         10,
         12
@@ -314,7 +404,7 @@
       "id": "008",
       "name": "Hridoy",
       "subjects": [
-        "All(1-8)",
+        "All(2-8)",
         "Mathematics",
         "Physics",
         "Chemistry",
