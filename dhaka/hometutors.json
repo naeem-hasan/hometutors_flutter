@@ -1,4 +1,43 @@
 [ 
+    
+    {
+      "grades": [
+        5,
+        8
+      ],
+      "for": "Class 2-5, Class 6-8",
+      "id": "034",
+      "name": "Ifaz Ahmed",
+      "subjects": [
+        "English",
+        "Bangla",
+        "Mathematics",
+        "Science",
+        "ICT",
+        "Islamic Studies",
+        "Bangladesh and Global Studies"
+      ],
+      "phone": "01971475335",
+      "quote": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+      "fb_id": "ifazahmedrafi"
+  },
+
+    {
+      "grades": [
+        10,
+        12
+      ],
+      "for": "SSC, HSC",
+      "id": "033",
+      "name": "Afruja Akter Nisha",
+      "subjects": [
+        "Accounting",
+        "Finance"
+      ],
+      "phone": "01986328552",
+      "quote": "When you are a hard worker and have a great desire, nothing is impossible for you.",
+      "fb_id": ""
+  },
 
     {
       "grades": [
@@ -139,7 +178,7 @@
       "id": "025",
       "name": "HM Masum",
       "subjects": [
-        "Islamic studies"
+        "Islamic Studies"
       ],
       "phone": "01753196519",
       "quote": "Islamic jekono subject porate chai dunia o akhire success howar jnno.",
