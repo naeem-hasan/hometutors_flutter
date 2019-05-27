@@ -2,6 +2,44 @@
 
     {
       "grades": [
+        10,
+        12
+      ],
+      "for": "SSC, HSC",
+      "id": "032",
+      "name": "Zulqarnain Haider",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ],
+      "phone": "01521585632",
+      "quote": "Never give up.",
+      "fb_id": ""
+  },  
+
+    {
+      "grades": [
+        5,
+        8
+      ],
+      "for": "Class 2-5, Class 6-8",
+      "id": "031",
+      "name": "Mahamud Hasan Sani",
+      "subjects": [
+        "Bangla",
+        "English",
+        "Mathematics",
+        "Science",
+        "Social science"
+      ],
+      "phone": "01626078089",
+      "quote": "Struggling is the pillar of success.",
+      "fb_id": "mahamudhasan.sani.1"
+  },
+
+    {
+      "grades": [
         5,
         10
       ],
