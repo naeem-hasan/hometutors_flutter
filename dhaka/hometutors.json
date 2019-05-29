@@ -1,4 +1,90 @@
 [ 
+
+    {
+      "grades": [
+        5,
+        8
+      ],
+      "for": "Class 2-5, Class 6-8",
+      "id": "038",
+      "name": "Qazi Orchi Rahman",
+      "subjects": [
+        "Bangla",
+        "English",
+        "ICT",
+        "Science(6-8)",
+        "Bangladesh and Global Studies"
+      ],
+      "phone": "01723064596",
+      "quote": "Learn to know and have fun and not memorize.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        8,
+        10,
+        12
+      ],
+      "for": "Class 6-8, SSC, HSC",
+      "id": "037",
+      "name": "Qari Md. Yousuf Ali",
+      "subjects": [
+        "Islamic Studies"
+      ],
+      "phone": "01725571236",
+      "quote": "সবার জন্য পবিত্র কুরআন শিক্ষা, বাসায় গিয়ে স্কুল/কলেজ/ভার্সিটি পড়ুয়া শিক্ষার্থীদের নুরানি পদ্ধতি ও আরবি গ্রামার অনুযায়ী খুব অল্প সময়ের মধ্যে পবিত্র কুরআন শিক্ষা দিয়ে থাকি।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10,
+        12
+      ],
+      "for": "Class 2-5, Class 6-8, SSC, HSC",
+      "id": "036",
+      "name": "Ahnaf Sadman",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology",
+        "Bangla",
+        "English",
+        "Social Science"
+      ],
+      "phone": "01700852689",
+      "quote": "No excuses, just work hard.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "035",
+      "name": "Kazi Towhid Hossain",
+      "subjects": [
+        "Bangla",
+        "English",
+        "Mathematics",
+        "Science(6-8)",
+        "Social Science",
+        "Physics",
+        "ICT",
+        "Agriculture",
+        "Geography"
+      ],
+      "phone": "01706091001",
+      "quote": "Math is life. There is nothing but math",
+      "fb_id": ""
+  },
     
     {
       "grades": [
