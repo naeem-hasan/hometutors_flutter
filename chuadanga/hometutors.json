@@ -1,0 +1,22 @@
+[
+
+    {
+        "grades": [
+          8,
+          10,
+          12
+        ],
+        "for": "Class 6-8, SSC, HSC",
+        "id": "001",
+        "name": "Md. Rabiul Islam Rajeb",
+        "subjects": [
+          "ICT",
+          "Physics",
+          "English"
+        ],
+        "phone": "01401738821",
+        "quote": "ICT আর ফিজিক্স টা বেশি ভালো লাগে।",
+        "fb_id": ""
+  },
+
+]

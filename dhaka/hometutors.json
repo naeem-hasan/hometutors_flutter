@@ -2,6 +2,56 @@
 
     {
       "grades": [
+        5
+      ],
+      "for": "Class 2-5",
+      "id": "041",
+      "name": "Ziaul Haque Zia",
+      "subjects": [
+        "All"
+      ],
+      "phone": "01799488761",
+      "quote": "কাউকে কোনোকিছু শিখাতে পারলে নিজেকে গর্বিত মনে করি।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        10,
+        12
+      ],
+      "for": "Class 2-5, SSC, HSC",
+      "id": "040",
+      "name": "Augniz Halder Rana",
+      "subjects": [
+        "All(2-5)",
+        "Biology",
+        "ICT"
+      ],
+      "phone": "01521216663",
+      "quote": "It's not the load that breaks you down, it's the way you carry it",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8
+      ],
+      "for": "Class 2-5, Class 6-8",
+      "id": "039",
+      "name": "Ashiqur Rahman Chowdhury",
+      "subjects": [
+        "All"
+      ],
+      "phone": "01704554198",
+      "quote": "নিজের ছোট ভাই-বোন যখন কোনো কিছুতে ভালো করে, তখন নিজের মধ্যে যে ভালো লাগাটা কাজ করে সেই অনুভূতি টা পেতে চাই।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
         5,
         8
       ],
