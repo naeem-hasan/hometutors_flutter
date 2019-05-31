@@ -2,6 +2,27 @@
 
     {
       "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "042",
+      "name": "Sadia Rahman",
+      "subjects": [
+        "Bangla",
+        "English",
+        "Science(6-8)",
+        "Islamic Studies",
+        "Social Science"
+      ],
+      "phone": "01533958865",
+      "quote": "জ্ঞান এমনভাবে অর্জন করো, যে জ্ঞানের মাধ্যমে অন্য কেউ উপকৃত হতে পারে।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
         5
       ],
       "for": "Class 2-5",
