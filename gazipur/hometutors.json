@@ -1,4 +1,24 @@
 [
+
+    {
+      "grades": [
+        8,
+        10
+      ],
+      "for": "Class 6-8, SSC",
+      "id": "002",
+      "name": "Nasif Ahammed",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics"
+      ],
+      "phone": "01947527775",
+      "quote": "Eduction is the backbone of a nation.",
+      "fb_id": "niloy7775"
+    },
+
     {
         "grades": [
           5

@@ -2,6 +2,116 @@
 
     {
       "grades": [
+        8,
+        10,
+        12
+      ],
+      "for": "Class 6-8, SSC, HSC",
+      "id": "047",
+      "name": "Kheya",
+      "subjects": [
+        "Science(6-8)",
+        "Biology",
+        "Physics",
+        "Chemistry",
+        "ICT"
+      ],
+      "phone": "01707515487",
+      "quote": "Work like people won't search you in Facebook, they will search you in Google.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "046",
+      "name": "Lima Akter Shimu",
+      "subjects": [
+        "All(2-8)",
+        "Accounting",
+        "Finance",
+        "Civics and Citizenship",
+        "Business Entrepreneurship"
+      ],
+      "phone": "01762306622",
+      "quote": "শেখানোর মাধ্যমে অনেক কিছু শিখতে পারব 😊।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        10
+      ],
+      "for": "Class 2-5, SSC",
+      "id": "045",
+      "name": "Redwan Ahmed Shopan",
+      "subjects": [
+        "Bangla",
+        "English",
+        "Mathematics",
+        "Accounting",
+        "Management",
+        "Finance",
+        "Social Science",
+        "Islamic Studies"
+      ],
+      "phone": "01575055147",
+      "quote": "Dedicated.",
+      "fb_id": "redwan.shopan"
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "044",
+      "name": "Debajyoti Soumya",
+      "subjects": [
+        "Bangla",
+        "English",
+        "Mathematics",
+        "Biology",
+        "Science",
+        "Social Science",
+        "Religion"
+      ],
+      "phone": "01929831700",
+      "quote": "Never accept anything less than the best.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10,
+        12
+      ],
+      "for": "Class 2-5, Class 6-8, SSC, HSC",
+      "id": "043",
+      "name": "Naquibuddin Sarkar",
+      "subjects": [
+        "Science",
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology"
+      ],
+      "phone": "01912883488",
+      "quote": "Being a talented guy is not more efficient than being a human being.",
+      "fb_id": "labib424"
+  },
+
+    {
+      "grades": [
         5,
         8,
         10

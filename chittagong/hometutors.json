@@ -2,6 +2,24 @@
 
     {
       "grades": [
+        5,
+        8
+      ],
+      "for": "Class 2-5, Class 6-8",
+      "id": "006",
+      "name": "Mohammad Moin Uddin",
+      "subjects": [
+        "English",
+        "Mathematics",
+        "Science"
+      ],
+      "phone": "01817597507",
+      "quote": "আমি নিজের জ্ঞান, মেধা, বুদ্ধি অন্যের সাথে শেয়ার করতে চাই এবং নিজেও অন্যের কাছ থেকে শিখতে চাই।",
+      "fb_id": ""
+    },
+
+    {
+      "grades": [
         5
       ],
       "for": "Class 2-5",
