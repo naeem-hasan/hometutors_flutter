@@ -1,5 +1,28 @@
 [ 
 
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "048",
+      "name": "Monish Biswas",
+      "subjects": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Science(2-5)",
+        "Science(6-8)"
+      ],
+      "phone": "01638522147",
+      "quote": "সবসময় চেষ্টা করি জানতে ও জানাতে।কাউকে জানানো টাই আমার প্রধান কর্তব্য। তবে কাউকে কখনো পরীক্ষার জন্য উদ্ধুদ্ধ করি না। কারণ পরীক্ষা মানুষের মস্তিষ্ক কে ধ্বংস করে দেয়। তাই সবাই কে বলি জানার জন্য পড়ো ও সবাই কে জানাও।মানুষ কে সাহায্য করাই আমার প্রথম ও প্রধান ব্রত। তাই মানুষ কে সাহায্য করবো মৃত্যু পর্যন্ত।",
+      "fb_id": "biswas.monish"
+  },
+
     {
       "grades": [
         8,
@@ -340,7 +363,7 @@
         "Mathematics",
         "Science(2-5)",
         "Science(6-8)",
-        "Social science"
+        "Social Science"
       ],
       "phone": "01626078089",
       "quote": "Struggling is the pillar of success.",
