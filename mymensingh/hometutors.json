@@ -1,5 +1,25 @@
 [
 
+
+  {
+    "grades": [
+      8,
+      10
+    ],
+    "for": "Class 6-8, SSC",
+    "id": "025",
+    "name": "Sakib Irtija",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Science(6-8)"
+    ],
+    "phone": "01712597559",
+    "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "fb_id": "sakib.irtija"
+  },
+
   {
     "grades": [
       5,

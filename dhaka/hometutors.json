@@ -78,7 +78,8 @@
         "English",
         "Mathematics",
         "Biology",
-        "Science",
+        "Science(2-5)",
+        "Science(6-8)",
         "Social Science",
         "Religion"
       ],
@@ -98,7 +99,8 @@
       "id": "043",
       "name": "Naquibuddin Sarkar",
       "subjects": [
-        "Science",
+        "Science(2-5)",
+        "Science(6-8)",
         "Physics",
         "Chemistry",
         "Mathematics",
@@ -138,7 +140,7 @@
       "id": "041",
       "name": "Ziaul Haque Zia",
       "subjects": [
-        "All"
+        "All(2-5)"
       ],
       "phone": "01799488761",
       "quote": "কাউকে কোনোকিছু শিখাতে পারলে নিজেকে গর্বিত মনে করি।",
@@ -173,7 +175,7 @@
       "id": "039",
       "name": "Ashiqur Rahman Chowdhury",
       "subjects": [
-        "All"
+        "All(2-8)"
       ],
       "phone": "01704554198",
       "quote": "নিজের ছোট ভাই-বোন যখন কোনো কিছুতে ভালো করে, তখন নিজের মধ্যে যে ভালো লাগাটা কাজ করে সেই অনুভূতি টা পেতে চাই।",
@@ -278,7 +280,8 @@
         "English",
         "Bangla",
         "Mathematics",
-        "Science",
+        "Science(2-5)",
+        "Science(6-8)",
         "ICT",
         "Islamic Studies",
         "Bangladesh and Global Studies"
@@ -335,7 +338,8 @@
         "Bangla",
         "English",
         "Mathematics",
-        "Science",
+        "Science(2-5)",
+        "Science(6-8)",
         "Social science"
       ],
       "phone": "01626078089",
@@ -368,7 +372,7 @@
       "name": "জাহিদুল দেওয়ান",
       "subjects": [
         "Bangla",
-        "Science",
+        "Science(2-5)",
         "Mathematics"
       ],
       "phone": "01950662668",
@@ -588,7 +592,7 @@
       "id": "017",
       "name": "Al Amin Hossain",
       "subjects": [
-        "All"
+        "All(2-5)"
       ],
       "phone": "01739300981",
       "quote": "পড়তে এবং পড়াতে খুব ভালবাসি। কারণ বই পড়ে এবং পড়ানোর মাঝে যে আনন্দ খুঁজে পাওয়া যায় তা অন্যভাবে সম্ভব নয়!",
@@ -640,7 +644,7 @@
       "id": "014",
       "name": "Mehedi Hasan Shohag",
       "subjects": [
-        "All"
+        "All(2-8)"
       ],
       "phone": "01979735073",
       "quote": "ইনশাল্লাহ্, আপনার পছন্দের শিক্ষক হতে পারব।",
@@ -655,7 +659,7 @@
       "id": "013",
       "name": "Shahnaz Shara",
       "subjects": [
-        "All"
+        "All(2-5)"
       ],
       "phone": "01906563700",
       "quote": "নিজে শেখার পাশাপাশি শেখাতেও আমার অনেক ভাল লাগে।",
@@ -819,7 +823,7 @@
         "id": "004",
         "name": "Lamisa Akter Tumpa",
         "subjects": [
-          "All"
+          "All(2-5)"
         ],
         "phone": "01303228149",
         "quote": "পড়তে এবং পড়াতে ভালোবাসি।",
@@ -852,7 +856,7 @@
         "id": "002",
         "name": "Sahabuddin Ahmed",
         "subjects": [
-          "All"
+          "All(2-8)"
         ],
         "phone": "01752086037",
         "quote": "শিখতে ও শিখাতে আমার ভালো লাগে! আর গণিত হলে তো কথাই নেই।",
