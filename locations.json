@@ -1,16 +1,17 @@
 [
   {
-    "Mymensingh": "mymensingh",
-    "Dhaka": "dhaka",
-    "Rajshahi": "rajshahi",
-    "Sylhet": "sylhet",
     "Barisal": "barisal",
     "Chittagong": "chittagong",
     "Chuadanga": "chuadanga",
-    "Rangpur": "rangpur",
-    "Khulna": "khulna",
+    "Dhaka": "dhaka",
     "Gazipur": "gazipur",
+    "Khulna": "khulna",
+    "Mymensingh": "mymensingh",
+    "Narayanganj": "narayanganj",
     "Nilphamari": "nilphamari",
+    "Rajshahi": "rajshahi", 
+    "Rangpur": "rangpur",
+    "Sylhet": "sylhet", 
     "Gotham City": "gotham"
   }
 ]

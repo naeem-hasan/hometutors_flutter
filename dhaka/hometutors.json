@@ -1,5 +1,122 @@
-[ 
+[
 
+    {
+      "grades": [
+        5
+      ],
+      "for": "Class 2-5",
+      "id": "054",
+      "name": "Md. Sujan Ali",
+      "subjects": [
+        "All(2-5)"
+      ],
+      "phone": "01825896457",
+      "quote": "There is no age of education. So I like to take education and love to teach others.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        8,
+        10
+      ],
+      "for": "Class 6-8, SSC",
+      "id": "053",
+      "name": "Irfanul Islam",
+      "subjects": [
+        "Bangla",
+        "English",
+        "Science(6-8)",
+        "Chemistry",
+        "Biology"
+      ],
+      "phone": "01985900798",
+      "quote": "Life is a question and how we live it is our answer.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5
+      ],
+      "for": "Class kg-2",
+      "id": "052",
+      "name": "Lamiya Nishat",
+      "subjects": [
+        "All"
+      ],
+      "phone": "01738778690",
+      "quote": "Hard work brings success.",
+      "fb_id": "lamiyanishat"
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "051",
+      "name": "Aminur Islam Abir",
+      "subjects": [
+        "All(2-8)",
+        "Bangla",
+        "English"
+        "Mathematics",
+        "ICT",
+        "Bangladesh and Global Studies",
+        "Islamic Studies"
+      ],
+      "phone": "01317014642",
+      "quote": "অনবরত অধ্যয়ন করে তা ভুলে যাওয়ার পরে যতটুকু মনে থাকে, সেটাই তোমার প্রাপ্ত শিক্ষা।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        8,
+        10,
+        12
+      ],
+      "for": "Class 6-8, SSC, HSC",
+      "id": "050",
+      "name": "MD Shovon Rahman",
+      "subjects": [
+        "Bangla",
+        "English",
+        "Mathematics",
+        "Science(6-8)",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "ICT",
+        "Civics and Citizenship"
+      ],
+      "phone": "01850802849",
+      "quote": "Never give up, Ever.",
+      "fb_id": "shovonrahman.rahman.9"
+  },
+
+    {
+      "grades": [
+        10,
+        12
+      ],
+      "for": "SSC, HSC",
+      "id": "049",
+      "name": "Md. Ibrahim Hossain Mugdho",
+      "subjects": [        
+        "Accounting",
+        "Business Entrepreneurship",
+        "English",
+        "Finance",        
+        "Management"
+      ],
+      "phone": "01685827760",
+      "quote": "চেষ্টা করলে সবই সম্ভব। কঠিন করে দেখলে বা উপস্থাপন করলে, যেকোন জিনিস ই কঠিন মনে হবে। যা সহজে সহজলোভ্য নয়। তাই লক্ষ ঠিক রেখে কঠিন কাজকে সহজ করে নিয়ে সমাধান করাই একজন শিক্ষার্থীর প্রধান কাজ।",
+      "fb_id": ""
+  },
 
     {
       "grades": [
