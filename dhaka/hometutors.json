@@ -2,6 +2,56 @@
 
     {
       "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "056",
+      "name": "Marfia Kader",
+      "subjects": [
+        "All(2-8)",
+        "Bangla",
+        "English",
+        "Mathematics",
+        "ICT",
+        "Business Entrepreneurship",
+        "Management",
+        "Social Science",
+        "Bangladesh and Global Studies",
+        "Agriculture",
+        "Islamic Studies"
+      ],
+      "phone": "01628872937",
+      "quote": "Teaching is the best profession anyone can ever have. I feel really lucky to choose tuition as my profession. Mostly I like Math & English subjects.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "055",
+      "name": "Md. Shohanur Rahaman",
+      "subjects": [
+        "All(2-8)",
+        "Bangla",
+        "English",
+        "Mathematics",
+        "Physics",
+        "Biology",
+        "ICT"
+      ],
+      "phone": "01786260797",
+      "quote": "Love to learn and eager to teach.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
         5
       ],
       "for": "Class 2-5",
