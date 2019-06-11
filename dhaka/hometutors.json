@@ -1,5 +1,161 @@
 [
 
+
+    {
+      "grades": [
+        5,
+        8
+      ],
+      "for": "Class 2-5, Class 6-8",
+      "id": "064",
+      "name": "Sheikh Tajrean Reza",
+      "subjects": [
+        "All(2-5)",
+        "All(6-8)"
+      ],
+      "phone": "01993219147",
+      "quote": "সবার কাছেই প্রতিভা থাকে, শুধুমাত্র সেটা উপলব্ধি করার দেরি।",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "063",
+      "name": "Tahmina akter",
+      "subjects": [
+        "All(2-5)",
+        "All(6-8)",
+        "Bangla",
+        "English",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "ICT",
+        "Religion" 
+      ],
+      "phone": "01636635560",
+      "quote": "Ami Mathematics ar Biology khub e bhalo porate Pari.... Amar bashay eshe porte hobe.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5
+      ],
+      "for": "Class 2-5",
+      "id": "062",
+      "name": "Noushad Arafat Pias",
+      "subjects": [
+        "All"
+      ],
+      "phone": "01401897188",
+      "quote": "Smart work is better than hard work.",
+      "fb_id": "noushadarafat.pias"
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "061",
+      "name": "Taa-Seen Zahan",
+      "subjects": [
+        "All(2-5)",
+        "All(6-8)",
+        "Bangla",
+        "English",
+        "Mathematics",
+        "ICT",
+        "Accounting",
+        "Finance",
+        "Business Entrepreneurship",
+        "Management",
+        "Social Science",
+        "Bangladesh and Global Studies",
+        "Islamic Studies"
+      ],
+      "phone": "01982656370",
+      "quote": "Proving myself effectively & efficiently, with dedication, knowledge, skills, ability & experience. I have the ability to communicate, cooperate, teamwork, presentation skills, adaptability, responsible, flexible, efficient, effective, polite, courteous manner, eager to learn new work & challenges as well. Nowadays students have become very complicated and conservative. And also sometimes difficult to understand their problems which they're passing through. I have the ability to understand their condition, counsel them and make an easy way so that we can communicate with their inner mind. A tutor is not only the job to teach the students but also to understand and minimize the problems for them. So for the above-stated things will explain Why you should hire me. Thank you.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        5
+      ],
+      "for": "Class 2-5",
+      "id": "060",
+      "name": "Mostafizur Rahman Anik",
+      "subjects": [
+        "All"
+      ],
+      "phone": "01787925228",
+      "quote": "You don't have to be great to start, But you have to start to be great.",
+      "fb_id": "anik.anik.102977"
+  },
+
+    {
+      "grades": [
+        5,
+        8
+      ],
+      "for": "Class 2-5, Class 6-8",
+      "id": "059",
+      "name": "Farhat Nahian",
+      "subjects": [
+        "All(2-5)",
+        "All(6-8)"
+      ],
+      "phone": "01996952576",
+      "quote": "Be stubborn about your goals but flexible about the methods.",
+      "fb_id": ""
+  },
+
+    {
+      "grades": [
+        8,
+        10,
+        12
+      ],
+      "for": "Class 6-8, SSC, HSC",
+      "id": "058",
+      "name": "Md Rayhan Tonoy",
+      "subjects": [
+        "All(6-8)",
+        "Accounting",
+        "English"
+      ],
+      "phone": "01681611478",
+      "quote": "I don't compete with others, I compete with myself. It makes me better everyday...",
+      "fb_id": "afnan.ahamed.saad"
+  },
+
+    {
+      "grades": [
+        10
+      ],
+      "for": "SSC",
+      "id": "057",
+      "name": "Arman",
+      "subjects": [
+        "Mathematics",
+        "Physics",
+        "Chemistry"
+      ],
+      "phone": "01954865086",
+      "quote": "Physics lover.",
+      "fb_id": "rxlarman.hossain"
+  },
+
     {
       "grades": [
         5,
@@ -10,7 +166,8 @@
       "id": "056",
       "name": "Marfia Kader",
       "subjects": [
-        "All(2-8)",
+        "All(2-5)",
+        "All(6-8)",
         "Bangla",
         "English",
         "Mathematics",
@@ -37,7 +194,8 @@
       "id": "055",
       "name": "Md. Shohanur Rahaman",
       "subjects": [
-        "All(2-8)",
+        "All(2-5)",
+        "All(6-8)",
         "Bangla",
         "English",
         "Mathematics",
@@ -110,7 +268,8 @@
       "id": "051",
       "name": "Aminur Islam Abir",
       "subjects": [
-        "All(2-8)",
+        "All(2-5)",
+        "All(6-8)",
         "Bangla",
         "English",
         "Mathematics",
@@ -221,7 +380,8 @@
       "id": "046",
       "name": "Lima Akter Shimu",
       "subjects": [
-        "All(2-8)",
+        "All(2-5)",
+        "All(6-8)",
         "Accounting",
         "Finance",
         "Business Entrepreneurship"
@@ -365,7 +525,8 @@
       "id": "039",
       "name": "Ashiqur Rahman Chowdhury",
       "subjects": [
-        "All(2-8)"
+        "All(2-5)",
+        "All(6-8)"
       ],
       "phone": "01704554198",
       "quote": "নিজের ছোট ভাই-বোন যখন কোনো কিছুতে ভালো করে, তখন নিজের মধ্যে যে ভালো লাগাটা কাজ করে সেই অনুভূতি টা পেতে চাই।",
@@ -618,7 +779,8 @@
       "id": "026",
       "name": "MD. Naimul Haque",
       "subjects": [
-        "All(2-8)",
+        "All(2-5)",
+        "All(6-8)",
         "Physics",
         "Biology"
       ],
@@ -782,7 +944,7 @@
       "id": "017",
       "name": "Al Amin Hossain",
       "subjects": [
-        "All(2-5)"
+        "All"
       ],
       "phone": "01739300981",
       "quote": "পড়তে এবং পড়াতে খুব ভালবাসি। কারণ বই পড়ে এবং পড়ানোর মাঝে যে আনন্দ খুঁজে পাওয়া যায় তা অন্যভাবে সম্ভব নয়!",
@@ -834,7 +996,8 @@
       "id": "014",
       "name": "Mehedi Hasan Shohag",
       "subjects": [
-        "All(2-8)"
+        "All(2-5)",
+        "All(6-8)"
       ],
       "phone": "01979735073",
       "quote": "ইনশাল্লাহ্, আপনার পছন্দের শিক্ষক হতে পারব।",
@@ -849,7 +1012,7 @@
       "id": "013",
       "name": "Shahnaz Shara",
       "subjects": [
-        "All(2-5)"
+        "All"
       ],
       "phone": "01906563700",
       "quote": "নিজে শেখার পাশাপাশি শেখাতেও আমার অনেক ভাল লাগে।",
@@ -941,7 +1104,8 @@
       "id": "008",
       "name": "Hridoy",
       "subjects": [
-        "All(2-8)",
+        "All(2-5)",
+        "All(6-8)",
         "Mathematics",
         "Physics",
         "Chemistry",
@@ -1013,7 +1177,7 @@
         "id": "004",
         "name": "Lamisa Akter Tumpa",
         "subjects": [
-          "All(2-5)"
+          "All"
         ],
         "phone": "01303228149",
         "quote": "পড়তে এবং পড়াতে ভালোবাসি।",
@@ -1046,7 +1210,8 @@
         "id": "002",
         "name": "Sahabuddin Ahmed",
         "subjects": [
-          "All(2-8)"
+          "All(2-5)",
+          "All(6-8)"
         ],
         "phone": "01752086037",
         "quote": "শিখতে ও শিখাতে আমার ভালো লাগে! আর গণিত হলে তো কথাই নেই।",
