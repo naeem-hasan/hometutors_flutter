@@ -106,14 +106,24 @@
     {
       "grades": [
         5,
-        8
+        8,
+        10,
+        12
       ],
-      "for": "Class 2-5, Class 6-8",
+      "for": "Class 2-5, Class 6-8, SSC, HSC",
       "id": "059",
       "name": "Farhat Nahian",
       "subjects": [
         "All(2-5)",
-        "All(6-8)"
+        "All(6-8)",
+        "Bangla",
+        "English",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "ICT",
+        "Agriculture",
+        "Fine Arts and Crafts"
       ],
       "phone": "01996952576",
       "quote": "Be stubborn about your goals but flexible about the methods.",
