@@ -1,0 +1,28 @@
+[
+
+    {
+    "grades": [
+      5,
+      8,
+      10    
+    ],
+    "for": "Class 2-5, Class 6-8, SSC",
+    "id": "001",
+    "name": "Md. Jahir Raihan",
+    "subjects": [
+      "All(2-5)",
+      "All(6-8)",
+      "Bangla",
+      "English",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "ICT",
+    ],
+    "phone": "01963137934",
+    "quote": "শিখতে ও শেখাতে আমার ভালো লাগে! আর গণিত হলে তো কথাই নেই।",
+    "fb_id": "jahir.raihan.902266"
+  }
+
+]

@@ -4,6 +4,200 @@
     "grades": [
       5,
       8,
+      10
+    ],
+    "for": "Class 2-5, Class 6-8, SSC",
+    "id": "074",
+    "name": "Asma Ul Husna",
+    "subjects": [
+      "All(2-5)",
+      "Science(2-5)",
+      "All(6-8)",
+      "Science(6-8)",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Social Science",
+      "Religion"
+    ],
+    "phone": "01744129019",
+    "quote": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+    "fb_id": ""
+  },
+
+  {
+    "grades": [
+      8,
+      10,
+      12
+    ],
+    "for": "Class 6-8, SSC, HSC",
+    "id": "073",
+    "name": "M U Himel",
+    "subjects": [
+      "All(6-8)",
+      "Bangla",
+      "Mathematics",
+      "Admission Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "ICT",
+      "Social Science",
+      "Bangladesh and Global Studies",
+      "Agriculture"
+    ],
+    "phone": "01772264640",
+    "quote": "I always try to learn and teach.",
+    "fb_id": "mukles.uddinhimel.7"
+  },
+
+  {
+    "grades": [
+      5,
+      8,
+      10,
+      12
+    ],
+    "for": "Class 2-5, Class 6-8, SSC, HSC",
+    "id": "072",
+    "name": "Sarkar Rasel Mahmud",
+    "subjects": [
+      "All(2-5)",
+      "All(6-8)",
+      "Bangla",
+      "English",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "ICT",
+      "Social Science",
+      "Bangladesh and Global Studies",
+      "Geography"
+    ],
+    "phone": "01776559327",
+    "quote": "মানুষের বড় হওয়ার ইচ্ছাই মানুষকে বড় করে তুলে",
+    "fb_id": "sarkar.raselmahmud"
+  },
+
+  {
+    "grades": [
+      5,
+      8,
+      10
+    ],
+    "for": "Class 2-5, Class 6-8, SSC",
+    "id": "071",
+    "name": "Md Sujon Ali",
+    "subjects": [
+      "All(2-5)",
+      "All(6-8)",
+      "Bangla",
+      "Mathematics",
+      "Physics",
+      "Bangladesh and Global Studies",
+      "Islamic Studies"
+    ],
+    "phone": "01773292527",
+    "quote": "Teaching is the best profession anyone can ever have..",
+    "fb_id": ""
+  },
+
+  {
+    "grades": [
+      8,
+      10,
+      12
+    ],
+    "for": "Class 6-8, SSC, HSC",
+    "id": "070",
+    "name": "Md. Real",
+    "subjects": [
+      "All(6-8)",
+      "English",
+      "Mathematics",
+      "Admission Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "ICT"
+    ],
+    "phone": "01521332307",
+    "quote": "Failure is the tution, you pay for Success.",
+    "fb_id": "mdreal.arfan"
+  },
+
+  {
+    "grades": [
+      8,
+      10,
+      12
+    ],
+    "for": "Class 6-8, SSC, HSC",
+    "id": "069",
+    "name": "Niloy Saha",
+    "subjects": [
+      "English",
+      "Accounting",
+      "Finance",
+      "Economics",
+      "Business Entrepreneurship",
+      "Management"
+    ],
+    "phone": "01689206133",
+    "quote": "বেশি ভাবলে জীবন উপভোগ করা যায় না",
+    "fb_id": ""
+  },
+
+  {
+    "grades": [
+      5,
+      8,
+      10
+    ],
+    "for": "Class 2-5, Class 6-8, SSC",
+    "id": "068",
+    "name": "Tanim Mahmud",
+    "subjects": [
+      "All(2-5)",
+      "All(6-8)",
+      "Bangla",
+      "English",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "ICT",
+      "Social Science",
+      "Religion"
+    ],
+    "phone": "01675345632",
+    "quote": "Learn yourself, learn others",
+    "fb_id": ""
+  },
+
+  {
+    "grades": [
+      5,
+      8
+    ],
+    "for": "Class 2-5, Class 6-8",
+    "id": "067",
+    "name": "Moyeedul Islam Adib",
+    "subjects": [
+      "All(2-5)",
+      "All(6-8)"
+    ],
+    "phone": "01627678334",
+    "quote": "Education is the most powerful weapon",
+    "fb_id": ""
+  },
+
+  {
+    "grades": [
+      5,
+      8,
       10,
       12
     ],

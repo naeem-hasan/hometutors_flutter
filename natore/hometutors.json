@@ -1,0 +1,25 @@
+[
+
+    {
+    "grades": [
+      5,
+      8,
+      10
+    ],
+    "for": "Class 2-5, Class 6-8, SSC",
+    "id": "001",
+    "name": "Tahsin Farzana",
+    "subjects": [
+      "All(2-5)",
+      "All(6-8)",
+      "Bangla",
+      "English",
+      "Mathematics",
+      "Biology"
+    ],
+    "phone": "01749683258",
+    "quote": "শিখতে এবং শেখাতে ভালোবাসি",
+    "fb_id": ""
+  }
+
+]
