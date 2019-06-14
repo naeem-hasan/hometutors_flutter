@@ -1,5 +1,59 @@
 [
 
+  {
+    "grades": [
+      5,
+      8,
+      10,
+      12
+    ],
+    "for": "Class 2-5, Class 6-8, SSC, HSC",
+    "id": "066",
+    "name": "Sinhaj Noor",
+    "subjects": [
+      "All(2-5)",
+      "All(6-8)",
+      "Bangla",
+      "English",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "ICT",
+      "Management",
+      "Agriculture",
+      "Religion"
+    ],
+    "phone": "01628406056",
+    "quote": "A reader lives a thousand lives before he dies. The man who never reads lives only one. """"""- George R.R. Martin",
+    "fb_id": "sinhaj.noorpreeti"
+  },
+
+    {
+      "grades": [
+        5,
+        8,
+        10
+      ],
+      "for": "Class 2-5, Class 6-8, SSC",
+      "id": "065",
+      "name": "Mehedi Hasan Nayeem",
+      "subjects": [
+        "All(2-5)",
+        "All(6-8)",
+        "Accounting",
+        "Finance",
+        "Business Entrepreneurship",
+        "Management",
+        "Bangladesh and Global Studies",
+        "Agriculture",
+        "Islamic Studies",
+        "Religion"
+      ],
+      "phone": "01551764811",
+      "quote": "কষ্ট কখনো বৃথা যেতে পারে না",
+      "fb_id": ""
+  },
 
     {
       "grades": [
